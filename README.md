@@ -1,11 +1,11 @@
-About r-c3net
-=============
+About r-c3net-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-c3net-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=c3net
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-c3net-feedstock/blob/main/LICENSE.txt)
 
 Summary: This package allows inferring gene regulatory networks with direct physical interactions from microarray expression data using C3NET.
 
